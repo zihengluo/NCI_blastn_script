@@ -8,7 +8,7 @@ All the scripts, database, and test data are placed in /g/data/xf3/blastn_databa
 
 The script to be submitted to NCI is called blastn2.12.sh because it runs blastn v2.12.0. 
 
-The test data can be used for a try are in /g/data/xf3/blastn_database/fastq.
+The test data can be used for a try are in /g/data/xf3/blastn_database/fastq. The script will process all the fastq files in the dircetory.
 
 The outputs of blastn on test data are in /g/data/xf3/blastn_database/blast2.12_output.
 
